@@ -11,7 +11,7 @@ One of the models is a Neural Net classifier, the other, a multi-class Support V
 * priors count,
 * charge degree
 
-to predict a risk score of future recidivism:
+to predict what the COMPAS violent recidivism risk algorithm would have assigned a given example:
 * high,
 * medium,
 * low.
