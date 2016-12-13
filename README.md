@@ -4,7 +4,7 @@ This repo contains material pertaining to my INFO 4250 - Surveillance and Privac
 One of the models is a Neural Net classifier, the other, a multi-class Support Vector Machine (SVC) classifier, both using only a small number of basic features:  
 * sex
 * age,
-* 'race',
+* race,
 * juvenile felony count,
 * juvenile misdemeanor count,
 * other juvenile count,
@@ -12,9 +12,9 @@ One of the models is a Neural Net classifier, the other, a multi-class Support V
 * charge degree
 
 to predict a risk score of future recidivism:
-* High,
-* Medium,
-* Low.
+* high,
+* medium,
+* low.
 
 ### Sources
 The data csv files come from [ProPublica's repo](https://github.com/propublica/compas-analysis) of data they collected from FOIA requests (thanks for doing all the hard work!). 
