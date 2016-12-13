@@ -16,6 +16,11 @@ to predict a risk score of future recidivism:
 * medium,
 * low.
 
+### Models
+The model built out in nnet-risk-model.ipynb returned better results than that of svc-risk-model.ipynb, and as such, more in-depth work is presented in this notebook.  
+
+The output at the very bottom of svc-risk-model.ipynb contains all the interesting information for that model.  For nnet, it is spread throught but annotated with comments. I tried to put in clarifying blocks of text throughout to explain what is happening / being shown.  Let me know if you have any questions!
+
 ### Sources
 The data csv files come from [ProPublica's repo](https://github.com/propublica/compas-analysis) of data they collected from FOIA requests (thanks for doing all the hard work!). 
 Besides scikit-learn, tools from [Artem Golubim's library](https://github.com/rushter/MLAlgorithms) of simple ML implementations are used. This can be found in the MLA folder.
