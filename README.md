@@ -25,4 +25,4 @@ The data csv files come from [ProPublica's repo](https://github.com/propublica/c
 Besides scikit-learn, tools from [Artem Golubim's library](https://github.com/rushter/MLAlgorithms) of simple ML implementations are used. This can be found in the MLA folder.
 
 
-#### --> [nnet-risk-model.ipynb](https://github.com/rae83/info4250/blob/master/nnet-risk-model.ipynb)
+#### Check out the bulk of the project --> [nnet-risk-model.ipynb](https://github.com/rae83/info4250/blob/master/nnet-risk-model.ipynb)
