@@ -18,7 +18,7 @@ Models 1-3 are used to predict the COMPAS risk score level (High, Medium, or Low
 
 Model 4 predicts the 2-year rate of recidivism (will this person commit a crime again within the next two years?) for both general recidivism and violent crime recidivism.  The model presented here considerably outperforms COMPAS risk scores in predicting both types of recidivism.
 
-I include clarifying blocks of text throughout to explain what is happening / being shown.  In the nnet notebook, the blocks of output text on a red background can be ignored; it is just output pertaining to training each model.  Let me know if you have any questions!
+I include clarifying blocks of text throughout to explain what is happening / being shown.  In the nnet notebook, any text on a red background can be safely ignored; it is just output pertaining to training each model.  Let me know if you have any questions!
 
 
 #### Check out the bulk of the project --> [nnet-risk-model.ipynb](https://github.com/rae83/info4250/blob/master/nnet-risk-model.ipynb)
