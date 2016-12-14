@@ -20,9 +20,10 @@ Model 4 predicts the 2-year rate of recidivism (will this person commit a crime 
 
 I include clarifying blocks of text throughout to explain what is happening / being shown.  In the nnet notebook, the blocks of output text on a red background can be ignored; it is just output pertaining to training each model.  Let me know if you have any questions!
 
+
+#### Check out the bulk of the project --> [nnet-risk-model.ipynb](https://github.com/rae83/info4250/blob/master/nnet-risk-model.ipynb)
+
+
 ### Sources
 The data csv files come from [ProPublica's repo](https://github.com/propublica/compas-analysis) of data they collected from FOIA requests (thanks for doing all the hard work!). 
 Besides scikit-learn, tools from [Artem Golubim's library](https://github.com/rushter/MLAlgorithms) of simple ML implementations are used. This can be found in the MLA folder.
-
-
-#### Check out the bulk of the project --> [nnet-risk-model.ipynb](https://github.com/rae83/info4250/blob/master/nnet-risk-model.ipynb)
